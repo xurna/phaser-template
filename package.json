@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:xurna/phaser-template.git"
   },
   "author": "Xurna Yang",
   "license": "ISC",
